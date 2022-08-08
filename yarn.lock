@@ -5668,6 +5668,11 @@ vary@~1.1.2:
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
 
+vue-bitnob@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/vue-bitnob/-/vue-bitnob-1.0.4.tgz#40255c2d61b91f94918a9aea378ac732ab437a5c"
+  integrity sha512-qHQ5Vq5cyWiIfZrGzUGxN3kkA8F9kv4tcYkSZWay9AO+X4Hu4sgJda4IN5G5wVOGrcqxl9dFxXFOMAK7Kx7C3A==
+
 vue-eslint-parser@^8.0.1:
   version "8.3.0"
   resolved "https://registry.yarnpkg.com/vue-eslint-parser/-/vue-eslint-parser-8.3.0.tgz#5d31129a1b3dd89c0069ca0a1c88f970c360bd0d"
